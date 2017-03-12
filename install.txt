@@ -1,0 +1,4 @@
+login anonymous
+force_install_dir /home/gameserver/server
+app_update 565060 validate
+quit
